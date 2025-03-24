@@ -1,0 +1,13 @@
+BODY {margin-left: 20; margin-right: 20; scrollbar-face-color: #CFCFCF; 
+scrollbar-highlight-color: #CFCFCF; 
+scrollbar-shadow-color: #CFCFCF; 
+scrollbar-arrow-color: blue; 
+scrollbar-track-color: #CFCFCF;
+font-family: Verdana, Arial, Tahoma; font-size: 12pt;}
+
+H1, H2, H3 {color : #00009D; text-align: center; font-weight: bold;}
+#title {color : #00009D; text-align: center; font-weight: bold; font-size: 85}
+
+A:link {color: blue; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+A:visited {color: blue; FONT-WEIGHT: bold; TEXT-DECORATION: none}
+A:hover {color: red; FONT-WEIGHT: bold;}
